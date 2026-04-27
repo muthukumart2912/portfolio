@@ -100,10 +100,10 @@ export default function About() {
               Ensuring <span className="gradient-text">Software Quality</span> at Scale
             </h3>
             <p className="about-text">
-              I'm a Software Engineer with <strong>3.2+ years of experience</strong> in software testing, specialising in test automation using <strong>Java, Playwright, Selenium, TestNG, and REST Assured</strong>. I've built automation frameworks from scratch across UI, API, and integration layers.
+              I'm a Software Engineer with <strong>3.2+ years of experience</strong> in software testing, specialising in test automation using <strong>Java, Playwright, Selenium, TestNG, and REST Assured</strong>. My core aim is to transition into an <strong>SDET</strong> role, building robust, scalable automation architectures from scratch across UI, API, and integration layers.
             </p>
             <p className="about-text">
-              I've worked in the <strong>Healthcare / Life Sciences</strong> domain on Labware LIMS 7 (CLIA & CRS modules), eliminating manual bottlenecks, building parallel execution frameworks, and integrating CI/CD pipelines with GitHub Actions and Jenkins.
+              I've gained practical knowledge of the <strong>Healthcare / Life Sciences</strong> domain while working on Labware LIMS 7 (CLIA & CRS modules), where I focused on eliminating manual bottlenecks, building parallel execution frameworks, and integrating CI/CD pipelines with GitHub Actions and Jenkins.
             </p>
             <p className="about-text">
               I'm passionate about leveraging cutting-edge tools like <strong>Playwright MCP Server + GitHub Copilot</strong> for AI-assisted test generation, and I believe quality engineering is a first-class engineering discipline.

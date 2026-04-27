@@ -34,7 +34,7 @@ export default function Footer() {
               <span className="logo-bracket">/&gt;</span>
             </div>
             <p className="footer-tagline">
-              QA Automation Engineer · ISTQB Certified · Healthcare Domain Specialist
+              Software Engineer · ISTQB Certified · Aspiring SDET
             </p>
             <p className="footer-bio">
               Passionate about building quality into every layer of software development through

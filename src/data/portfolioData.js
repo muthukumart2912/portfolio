@@ -1,20 +1,20 @@
 // ===================== PERSONAL INFO =====================
 export const personalInfo = {
   name: "Muthu Kumar",
-  title: "Software Engineer – QA Automation Specialist",
+  title: "Software Engineer – Aspiring SDET",
   taglines: [
-    "QA Automation Engineer",
+    "Software Engineer",
+    "Aspiring SDET",
     "Playwright & Selenium Expert",
     "BDD Framework Architect",
     "ISTQB Certified Tester",
-    "CI/CD & GitHub Actions Specialist",
   ],
-  bio: "3.2+ years of experience in software testing with hands-on expertise in test automation using Java, Playwright, Selenium, TestNG, and REST Assured. Experienced in building automation frameworks from scratch, API testing, manual testing, and managing test lifecycles in OpenText ALM. ISTQB Foundation Level certified.",
+  bio: "3.2+ years of experience in software testing with hands-on expertise in test automation using Java, Playwright, Selenium, TestNG, and REST Assured. My core aim is to transition into an SDET role, building robust, scalable automation architectures. Experienced in building automation frameworks from scratch, API testing, manual testing, and managing test lifecycles in OpenText ALM. ISTQB Foundation Level certified.",
   location: "India",
-  email: "muthukumar@example.com",
+  email: "muthukumart2912@gmail.com",
   phone: "+91 88838 75461",
   github: "https://github.com/muthukumart2912",
-  linkedin: "https://linkedin.com/in/muthukumar",
+  linkedin: "https://www.linkedin.com/in/muthukumart2912",
   twitter: "https://twitter.com/muthukumar",
   resumeLink: "/MUTHU_KUMAR_RESUME.docx",
   availability: "Open to Opportunities",
@@ -182,7 +182,7 @@ export const experience = [
     location: "India",
     type: "Full-time",
     description:
-      "Led automation engineering for Labware LIMS 7 (Healthcare/Life Sciences domain), building hybrid POM and BDD frameworks from scratch with Playwright, Selenium, Cucumber, TestNG & REST Assured. Served as automation team lead for last 6 months.",
+      "Led automation engineering for Labware LIMS 7, gaining practical knowledge and familiarity with the Healthcare/Life Sciences domain. Built hybrid POM and BDD frameworks from scratch with Playwright, Selenium, Cucumber, TestNG & REST Assured. Served as automation team lead for last 6 months.",
     achievements: [
       "Automated 80+ test scripts covering 500+ requirements for Labware LIMS 7",
       "Eliminated manual HL7 segment verification using Java HAPI library",
